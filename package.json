@@ -1,5 +1,6 @@
 {
   "name": "react-flat-selection",
+  "homepage": "http://kloomes.github.io/react-flat-selection",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
